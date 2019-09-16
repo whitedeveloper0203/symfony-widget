@@ -1,4 +1,4 @@
-blog_api_articles:
+widgets_api_placment:
     type: rest
     resource: "@AppBundle/Controller/DefaultController.php"
-    name_prefix:  api_articles_
+    name_prefix:  api_widgets_
